@@ -223,3 +223,4 @@ FROM sales AS s
 INNER JOIN accounts AS a ON s.account = a.account
 GROUP BY a.region, a.country, a.industry
 ORDER BY "Margen de Beneficios" DESC;
+
