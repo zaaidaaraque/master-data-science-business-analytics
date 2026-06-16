@@ -65,6 +65,8 @@ The workbook uses three related tables joined together:
 - **Orders** — individual loan transactions (`order_id`, `amount`, `country`, `created_at`, `merchant_id`, `status`)
 - **Merchant** — merchant reference data (`merchant_id`, `name`)
 - **Refunds** — refund records (`order_id`, `amount`, `refunded_at`)
+- 
+The underlying data is available in the following Excel file: **<ins>Easy Loans Operaciones 2023.xlsx<ins>**
 
 # Requirements
 
