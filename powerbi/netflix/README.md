@@ -73,5 +73,4 @@ Also includes **5 custom tooltip pages** (Scatterplot, Language, Date, Genre, Mo
 ## License
  
 - **Dataset**: [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) — as published on [Kaggle](https://www.kaggle.com/datasets/nalisha/netflix-movies-and-tv-shows-data-analysis). No rights reserved by the original author.
-- **This project** (dashboard, DAX measures, documentation): released under the [MIT License](https://opensource.org/licenses/MIT) — see `LICENSE` file.
 
