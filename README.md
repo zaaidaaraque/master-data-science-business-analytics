@@ -8,6 +8,7 @@ This repository contains a collection of projects developed during my MSc in Dat
 |---|---|---|---|
 | [breast_cancer_explanatory_models](machine_learning/breast_cancer_explanatory_models) | Machine Learning | Python (Jupyter Notebook) | Coursework |
 | [hotel_booking_cancellations_analysis](machine_learning/hotel_booking_cancellations_analysis) | Machine Learning | Python (Jupyter Notebook) | Coursework |
+| [pump_it_up_drivendata](machine_learning/pump_it_up_drivendata) | Machine Learning | Python (Jupyter Notebook) | Coursework |
 | [powerbi/netflix](powerbi/netflix) | Business Intelligence | Power BI, Power Query, DAX | Personal project |
 | [sql/smartdesk](sql/smartdesk) | SQL | Snowflake SQL (queries run via VS Code) | Coursework |
 | [statistics/blood_glucose_statistical_analysis](statistics/blood_glucose_statistical_analysis) | Statistics | Python (Jupyter Notebook) | Coursework |
