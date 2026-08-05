@@ -7,6 +7,7 @@ This repository contains a collection of projects developed during my MSc in Dat
 | Project | Area | Tech | Type |
 |---|---|---|---|
 | [pump_it_up_drivendata](machine_learning/pump_it_up_drivendata) (Driven Data Competition)  | Machine Learning | Python (Jupyter Notebook) | Coursework |
+| [nlp_disaster_tweets_kaggle](machine_learning/nlp_disaster_tweets_kaggle) (Kaggle Competition)  | Machine Learning NLP | Python (Jupyter Notebook) | Personal project |
 | [breast_cancer_explanatory_models](machine_learning/breast_cancer_explanatory_models) | Machine Learning | Python (Jupyter Notebook) | Coursework |
 | [hotel_booking_cancellations_analysis](machine_learning/hotel_booking_cancellations_analysis) | Machine Learning | Python (Jupyter Notebook) | Coursework |
 | [powerbi/netflix](powerbi/netflix) | Business Intelligence | Power BI, Power Query, DAX | Personal project |
